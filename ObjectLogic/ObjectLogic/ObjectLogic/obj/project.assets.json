@@ -734,11 +734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniellarasanchez/Projects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/ObjectLogic.csproj",
+      "projectUniqueName": "/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/ObjectLogic.csproj",
       "projectName": "ObjectLogic",
-      "projectPath": "/Users/daniellarasanchez/Projects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/ObjectLogic.csproj",
+      "projectPath": "/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/ObjectLogic.csproj",
       "packagesPath": "/Users/daniellarasanchez/.nuget/packages/",
-      "outputPath": "/Users/daniellarasanchez/Projects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/obj/",
+      "outputPath": "/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

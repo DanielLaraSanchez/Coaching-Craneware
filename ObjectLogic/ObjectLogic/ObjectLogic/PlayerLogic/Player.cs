@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections;
-
 using ObjectLogic.ValidatorLogic;
 using ObjectLogic.GameLogic;
-using ObjectLogic.Interfaces;
-
-
+using System.Collections.Generic;
 
 namespace ObjectLogic.PlayerLogic
 {
@@ -19,7 +15,7 @@ namespace ObjectLogic.PlayerLogic
         public string Email { get; set; }
         public DateTime TimeOfCreation { get; set; }
         public int Points { get; set; }
-        public Game[] GamesPlayed { get; set; }
+        public List<Game> GamesPlayed { get; set; }
         public int RankingPosition { get; set; }
 
         public Player(string name, string email)
@@ -27,15 +23,16 @@ namespace ObjectLogic.PlayerLogic
             Name = name;
             Email = email;
             TimeOfCreation = DateTime.Now;
-            GamesPlayed = new ArrayList();
+            GamesPlayed = new List<Game>();
 
         }
 
         public void PlayGame(Player player1, Player player2)
         {
             Game game = new Game(player1, player2);
-            player1.GamesPlayed.
-
+            SelectWinner(game, player1, player2);
+            ActionOnPlayerAfterGame(game, player1, player2);
+           
         }
 
         public void ConfirmGame(Game game, Validator validator, Player oponent)
@@ -65,6 +62,12 @@ namespace ObjectLogic.PlayerLogic
                 Console.WriteLine("You entered the wrong player. Focus please!");
             }
 
+        }
+
+        public void ActionOnPlayerAfterGame(Game game, Player player1, Player player2)
+        {
+            player1.GamesPlayed.Add(game);
+            player2.GamesPlayed.Add(game);
         }
 
 

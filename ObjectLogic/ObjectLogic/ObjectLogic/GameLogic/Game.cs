@@ -17,6 +17,7 @@ namespace ObjectLogic.GameLogic
         {
             Player1 = player1;
             Player2 = player2;
+            Winner = null;
             Time = DateTime.Now;
             HasBeenPlayed = false;
             HasBeenConfirmed = false;

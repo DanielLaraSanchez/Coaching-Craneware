@@ -1,0 +1,11 @@
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/bin/Debug/netcoreapp2.1/ObjectLogic.deps.json
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/bin/Debug/netcoreapp2.1/ObjectLogic.runtimeconfig.json
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/bin/Debug/netcoreapp2.1/ObjectLogic.runtimeconfig.dev.json
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/bin/Debug/netcoreapp2.1/ObjectLogic.dll
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/bin/Debug/netcoreapp2.1/ObjectLogic.pdb
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/obj/Debug/netcoreapp2.1/ObjectLogic.csprojAssemblyReference.cache
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/obj/Debug/netcoreapp2.1/ObjectLogic.csproj.CoreCompileInputs.cache
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/obj/Debug/netcoreapp2.1/ObjectLogic.AssemblyInfoInputs.cache
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/obj/Debug/netcoreapp2.1/ObjectLogic.AssemblyInfo.cs
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/obj/Debug/netcoreapp2.1/ObjectLogic.dll
+/Users/daniellarasanchez/PersonalProjects/CranewareCoaching/ObjectLogic/ObjectLogic/ObjectLogic/obj/Debug/netcoreapp2.1/ObjectLogic.pdb
