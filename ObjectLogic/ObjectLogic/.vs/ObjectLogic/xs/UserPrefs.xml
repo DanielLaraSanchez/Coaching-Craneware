@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{FEE9B057-DC11-4E58-B983-731F1FA63C50}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectLogic/PlayerLogic/PlayerModel.cs">
+    <Files>
+      <File FileName="ObjectLogic/PlayerLogic/Player.cs" Line="3" Column="1" />
+      <File FileName="ObjectLogic/RankingLogic/Ranking.cs" Line="11" Column="1" />
+      <File FileName="ObjectLogic/ValidatorLogic/Validator.cs" Line="16" Column="10" />
+      <File FileName="ObjectLogic/:Users:daniellarasanchez:Projects:CranewareCoaching:ObjectLogic:ObjectLogic:ObjectLogic:GameLogic:GameModel.cs" Line="16" Column="2" />
+      <File FileName="ObjectLogic/PlayerLogic/PlayerModel.cs" Line="17" Column="26" />
+      <File FileName="ObjectLogic/RankingLogic/RankingModel.cs" Line="2" Column="35" />
+      <File FileName="ObjectLogic/ValidatorLogic/ValidatorModel.cs" Line="2" Column="37" />
+      <File FileName="ObjectLogic/GameLogic/Game.cs" Line="23" Column="10" />
+      <File FileName="ObjectLogic/GameLogic/GameModel.cs" Line="14" Column="1" />
+      <File FileName="ObjectLogic/Interfaces/IValidator.cs" Line="10" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ObjectLogic" expanded="True">
+            <Node name="ObjectLogic" expanded="True">
+              <Node name="GameLogic" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="PlayerLogic" expanded="True">
+                <Node name="PlayerModel.cs" selected="True" />
+              </Node>
+              <Node name="RankingLogic" expanded="True" />
+              <Node name="ValidatorLogic" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ObjectLogic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

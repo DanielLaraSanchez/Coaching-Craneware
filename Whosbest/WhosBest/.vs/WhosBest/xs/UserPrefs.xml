@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AB9AB503-39AF-4438-BE93-EC083205654D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhosBest/Startup.cs">
+    <Files>
+      <File FileName="WhosBest/Startup.cs" Line="14" Column="19" />
+      <File FileName="WhosBest/Program.cs" Line="1" Column="1" />
+      <File FileName="WhosBest/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhosBest" expanded="True">
+            <Node name="WhosBest" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WhosBest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
